@@ -1,6 +1,6 @@
 name = "Pretty"
 uuid = "f176f2d6-f546-4398-8099-07d77d4d3304"
-authors = ["Chris DeGrendele <christopher.degrendele@stonybrook.edu>"]
+authors = ["Chris DeGrendele <cjdegrendele@gmail.com>"]
 version = "0.1.0"
 
 [compat]
